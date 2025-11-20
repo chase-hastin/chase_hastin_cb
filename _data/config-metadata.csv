@@ -4,9 +4,9 @@ tour_site_number,Tour Site Number
 creator,Creator,
 date_of_construction,Date of Construction,true
 narrative,Narrative,
-structure_type,Structure Type,true
-house_type,House Type,true
-architectural_style,Architectural Style,true
+structure_type,Structure Type(s),true
+house_type,House Type(s),true
+architectural_style,Architectural Style(s),true
 architect,Architect,true
 date,Date Created,
 description,Description,
