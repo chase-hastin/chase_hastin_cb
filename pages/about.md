@@ -10,9 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About this Collection;About CollectionBuilder;About the About Page" %}
 
-## About the Collection
+## About this Collection
+
+This is a collection of 15, self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development.
+
+## About CollectionBuilder
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
