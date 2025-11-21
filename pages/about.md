@@ -51,21 +51,21 @@ I set out to achieve the following:
 
 Below is an explanation of the main data elements. Elements were sourced from the brochures, City of Bloomington Interim Report, and the AFS Ethnographic Thesaurus.
 
-* Title: name of structure listed on brochure; address
+* __Title__: name of structure listed on brochure; address
 
-* Tour Site Number: number of tour site stop in brochure
+* __Tour Site Number__: number of tour site stop in brochure
 
-* Date of Construction: year that the structure was built listed on brochure
+* __Date of Construction__: year that the structure was built listed on brochure
 
-* Narrative: biography of historic district/community/tour site listed on brochure
+* __Narrative__: biography of historic district/community/tour site listed on brochure
 
-* Structure Type: type of the structure listed on the City of Bloomington Interim Report (monuments and graves are personal additions)
+* __Structure Type__: type of the structure listed on the City of Bloomington Interim Report (monuments and graves are personal additions)
 
-* House Type: house form/plan listed on the City of Bloomington Interim Report (Indiana Landmarks and Carrol Krause have excellent definitions of house types common to Indiana)
+* __House Type__: house form/plan listed on the City of Bloomington Interim Report (Indiana Landmarks and Carrol Krause have excellent definitions of house types common to Indiana)
 
-* Architectural Style: style/movement of ornamentation that the structure exhibits (City of Bloomington Interim Report provides excellent biographical information on prevalent architecture styles prevalent in Bloomington and coinciding time periods
+* __Architectural Style__: style/movement of ornamentation that the structure exhibits (City of Bloomington Interim Report provides excellent biographical information on prevalent architecture styles prevalent in Bloomington and coinciding time periods
 
-* Subjects: general subject heading sourced from the AFS Ethnographic Thesaurus that corresponds to structure type, house type, architectural style
+* __Subjects__: general subject heading sourced from the AFS Ethnographic Thesaurus that corresponds to structure type, house type, architectural style
 
 
 While the digital collection does not fully recreate the images presented on the brochures, it is my hope that people who enjoy the physical brochures will be encouraged to learn more about Bloomington history and material culture when using this collection.
