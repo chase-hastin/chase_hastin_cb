@@ -70,6 +70,9 @@ Below is an explanation of the main data elements. Elements were sourced from th
 
 While the digital collection does not fully recreate the images presented on the brochures, it is my hope that people who enjoy the physical brochures will be encouraged to learn more about Bloomington history and material culture when using this collection.
 
+## Brochure Covers
+
+Historic Tour Guide No.1 A Walk Through the West Side Historic District: ![0100](0100.png)
 
 ## About CollectionBuilder
 
