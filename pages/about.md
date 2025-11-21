@@ -72,7 +72,7 @@ While the digital collection does not fully recreate the images presented on the
 
 ## Brochure Covers
 
-Historic Tour Guide No.1 A Walk Through the West Side Historic District: ![0401](0401.png)
+{% include feature/image.html objectid="coll001;coll006;coll011;coll016;coll021;coll026;coll031;coll036;coll041;coll046;coll051;coll056;coll061;coll064;coll067" %}
 
 ## About CollectionBuilder
 
