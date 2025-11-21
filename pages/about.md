@@ -14,7 +14,7 @@ credits: true
 
 ## About this Collection
 
-This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. The brochures were created to generate interest in prevalent architecture forms and local history in Bloomington, Indiana. Links to pdfs of 13 of the brochures can be found on the City of Bloomington website: https://bloomington.in.gov/about/walking-tours. Physical copies are disseminated at the Monroe County History Center. 
+This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. The brochures were created to generate interest in prevalent architecture forms and local history in Bloomington, Indiana. Links to pdfs of 13 of the brochures can be found on the City of Bloomington [website](https://bloomington.in.gov/about/walking-tours). Physical copies are disseminated at the Monroe County History Center. 
 
 
 Each brochure features a neighborhood or historic district in Bloomington and includes: a short history of the neighborhood/historic district/community; a numbered list of notable structures/sites in the area with the relative address, year of construction, short bio of the site, photograph of the site; and map of the neighborhood/district with number icons indicating where each structure is located. 
@@ -27,17 +27,17 @@ This project will complement the following existing resources and organizations 
 
 * City of Bloomington Interim Report, book, 2004
 
-* Hey Neighbor! Historical Bloomington Neighborhoods, current exhibit at Monroe County History Center, 2025
+* Hey Neighbor! Historical Bloomington Neighborhoods, exhibit at Monroe County History Center, 2025
 
-* Bloomington Then & Now: A Bloomington Fading Project, website
+* Bloomington Then & Now: A Bloomington Fading Project, [website](https://bloomingtonthenandnow.wordpress.com/) 
 
 * Historic Preservation in Indiana: Essays from the Field, book, 2013
 
-* Indiana Landmarks, website, 2025 
+* Indiana Landmarks, [website](https://www.indianalandmarks.org/)
 
-* Carrol Krause’s blog, housesandbooks, website
+* Carrol Krause’s blog, housesandbooks, [website](https://housesandbooks.wordpress.com/)
 
-* Bloomington Restorations, Inc, website
+* Bloomington Restorations, Inc, [website](https://bloomingtonrestorations.org/)
 
 
 I set out to achieve the following:
