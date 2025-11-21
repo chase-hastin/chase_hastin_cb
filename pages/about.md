@@ -18,52 +18,54 @@ This is a digitized collection of tour sites from 15 self-guided walking tour br
 
 
 Each brochure features a neighborhood or historic district in Bloomington and includes: a short history of the neighborhood/historic district/community; a numbered list of notable structures/sites in the area with the relative address, year of construction, short bio of the site, photograph of the site; and map of the neighborhood/district with number icons indicating where each structure is located. 
+
+
 I created this digital collection for the class ILS-Z 652 Digital Libraries at Indiana University for the Master of Library Science program in Fall 2025 with the aim to create a digital collection that contains supplementary architectural details for tour sites contained in the physical brochures. 
 
 
 This project will complement the following existing resources and organizations related to local history; historic, domestic architecture; and historic preservation in Bloomington, Indiana and broader south-central Indiana:
 
-•	City of Bloomington Interim Report, book, 2004
-
-•	Hey Neighbor! Historical Bloomington Neighborhoods, current exhibit at Monroe County History Center, 2025
-
-•	Bloomington Then & Now: A Bloomington Fading Project, website
-
-•	Historic Preservation in Indiana: Essays from the Field, book, 2013
-
-•	Indiana Landmarks, website, 2025 
-
-•	Carrol Krause’s blog, housesandbooks, website
-
-•	Bloomington Restorations, Inc, website
+    •	City of Bloomington Interim Report, book, 2004
+    
+    •	Hey Neighbor! Historical Bloomington Neighborhoods, current exhibit at Monroe County History Center, 2025
+    
+    •	Bloomington Then & Now: A Bloomington Fading Project, website
+    
+    •	Historic Preservation in Indiana: Essays from the Field, book, 2013
+    
+    •	Indiana Landmarks, website, 2025 
+    
+    •	Carrol Krause’s blog, housesandbooks, website
+    
+    •	Bloomington Restorations, Inc, website
 
 
 I set out to achieve the following:
 
-•	Consolidate the brochures into one accessible database where browsing, sorting, and searching individual structures/sites is possible
-
-•	Add additional descriptors for each structure/site (sourced from the City of Bloomington Interim Report, 2004)
-
-•	Implement the individual structures/sites of each brochure into an interactive map. 
+    •	Consolidate the brochures into one accessible database where browsing, sorting, and searching individual structures/sites is possible
+    
+    •	Add additional descriptors for each structure/site (sourced from the City of Bloomington Interim Report, 2004)
+    
+    •	Implement the individual structures/sites of each brochure into an interactive map. 
 
 
 Below is an explanation of the main data elements. Elements were sourced from the brochures, City of Bloomington Interim Report, and the AFS Ethnographic Thesaurus.
 
-•	Title: name of structure listed on brochure; address
-
-•	Tour Site Number: number of tour site stop in brochure
-
-•	Date of Construction: year that the structure was built listed on brochure
-
-•	Narrative: biography of historic district/community/tour site listed on brochure
-
-•	Structure Type: type of the structure listed on the City of Bloomington Interim Report (monuments and graves are personal additions)
-
-•	House Type: house form/plan listed on the City of Bloomington Interim Report (Indiana Landmarks and Carrol Krause have excellent definitions of house types common to Indiana)
-
-•	Architectural Style: style/movement of ornamentation that the structure exhibits (City of Bloomington Interim Report provides excellent biographical information on prevalent architecture styles prevalent in Bloomington and coinciding time periods
-
-•	Subjects: general subject heading sourced from the AFS Ethnographic Thesaurus that corresponds to structure type, house type, architectural style
+    •	Title: name of structure listed on brochure; address
+    
+    •	Tour Site Number: number of tour site stop in brochure
+    
+    •	Date of Construction: year that the structure was built listed on brochure
+    
+    •	Narrative: biography of historic district/community/tour site listed on brochure
+    
+    •	Structure Type: type of the structure listed on the City of Bloomington Interim Report (monuments and graves are personal additions)
+    
+    •	House Type: house form/plan listed on the City of Bloomington Interim Report (Indiana Landmarks and Carrol Krause have excellent definitions of house types common to Indiana)
+    
+    •	Architectural Style: style/movement of ornamentation that the structure exhibits (City of Bloomington Interim Report provides excellent biographical information on prevalent architecture styles prevalent in Bloomington and coinciding time periods
+    
+    •	Subjects: general subject heading sourced from the AFS Ethnographic Thesaurus that corresponds to structure type, house type, architectural style
 
 
 While the digital collection does not fully recreate the images presented on the brochures, it is my hope that people who enjoy the physical brochures will be encouraged to learn more about Bloomington history and material culture when using this collection.
