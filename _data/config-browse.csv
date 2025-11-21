@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date_of_construction,,true,,
-structure_type,,true,,
-house_type,,true,,
-architectural_style,,true,,
-architect,,true,,
+date_of_construction,,true,,Date of Construction
+structure_type,,true,,Structure Type
+house_type,,true,,House Type
+architectural_style,,true,,Architectural Style
+architect,,true,,Architect
