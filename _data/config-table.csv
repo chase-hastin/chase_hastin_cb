@@ -1,5 +1,9 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+date_of_construction,Date of Construction
+narrative,Narrative
+structure_type,Structure Type
+house_type,House Type
+architectural_style,Architectural Style
+architect,Architect
+subject,Subject
