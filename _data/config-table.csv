@@ -7,3 +7,7 @@ house_type,House Type
 architectural_style,Architectural Style
 architect,Architect
 subject,Subject
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
