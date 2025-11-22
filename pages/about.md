@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="coll002" %}
+{% include feature/jumbotron.html objectid="coll004" %}
 
 {% include feature/nav-menu.html sections="About this Collection;About CollectionBuilder;About the About Page" %}
 
@@ -73,7 +73,11 @@ While the digital collection does not fully recreate the images presented on the
 
 ## Brochure Covers
 
-{% include feature/image.html objectid="coll001;coll006;coll011;coll016;coll021;coll026;coll031;coll036;coll041;coll046;coll051;coll056;coll061;coll064;coll067" %}
+{% include feature/image.html objectid="coll001;coll006;coll011" %}
+{% include feature/image.html objectid="coll016;coll021;coll026" %}
+{% include feature/image.html objectid="coll031;coll036;coll041" %}
+{% include feature/image.html objectid="coll046;coll051;coll056" %}
+{% include feature/image.html objectid="coll061;coll064;coll067" %}
 
 ## About CollectionBuilder
 
