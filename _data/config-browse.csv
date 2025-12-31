@@ -4,3 +4,4 @@ structure_type,Structure Type,true,,Structure Type
 house_type,House Type,true,,House Type
 architectural_style,Architectural Style,true,,Architectural Style
 architect,Architect,true,,Architect
+location,Historic District,true,,Historic District
