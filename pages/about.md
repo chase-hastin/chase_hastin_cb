@@ -14,7 +14,7 @@ credits: true
 
 ## About this Collection
 
-This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. The brochures were created to generate interest in prevalent architecture forms and local history in Bloomington, Indiana. Links to pdfs of 13 of the brochures can be found on the City of Bloomington [website](https://bloomington.in.gov/about/walking-tours). Physical copies are disseminated at the Monroe County History Center. 
+This is a digitized collection of tour sites from 15 self-guided walking tour brochures produced between 2002 and 2017 by the City of Bloomington Department of Housing and Neighborhood Development. All rights to these brochures belong to the City of Bloomington Department of Housing and Neighborhood Development. The brochures were created to generate interest in prevalent architecture forms and local history in Bloomington, Indiana.
 
 {% include feature/image.html objectid="coll010" width="50" %}
 
@@ -78,7 +78,7 @@ While the digital collection does not fully recreate the images presented on the
 
 ## About the Creator
 
-Chase Hastings is a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course, ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures. Tour site photographs were taken by Hastings 
+Chase Hastings is a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures. Tour site photographs with yellow borders were taken by Hastings. 
 
 ## About CollectionBuilder
 
