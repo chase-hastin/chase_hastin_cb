@@ -21,9 +21,6 @@ This is a digitized collection of tour sites from 15 self-guided walking tour br
 Each brochure features a neighborhood or historic district in Bloomington and includes: a short history of the neighborhood/historic district/community; a numbered list of notable structures/sites in the area with the relative address, year of construction, short bio of the site, photograph of the site; and map of the neighborhood/district with number icons indicating where each structure is located. 
 
 
-I created this digital collection for the class ILS-Z 652 Digital Libraries at Indiana University for the Master of Library Science program in Fall 2025 with the aim to create a digital collection that contains supplementary architectural details for tour sites contained in the physical brochures. 
-
-
 This project will complement the following existing resources and organizations related to local history; historic, domestic architecture; and historic preservation in Bloomington, Indiana and broader south-central Indiana:
 
 * City of Bloomington Interim Report, book, 2004
@@ -78,6 +75,10 @@ While the digital collection does not fully recreate the images presented on the
 {% include feature/image.html objectid="coll031;coll036;coll041" %}
 {% include feature/image.html objectid="coll046;coll051;coll056" %}
 {% include feature/image.html objectid="coll061;coll064;coll067" %}
+
+## About the Creator
+
+Chase Hastings is a graduate student at Indiana University Bloomington studying Library Science. He started this digital collection for the course, ILS-Z 652 Digital Libraries in Fall 2025 with the aim to create an exhibit that contains supplementary architectural details for tour sites featured in the Bloomington Historic Walking Tour Brochures. Tour site photographs were taken by Hastings 
 
 ## About CollectionBuilder
 
